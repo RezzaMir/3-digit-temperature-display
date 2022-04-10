@@ -1,9 +1,11 @@
-# 3 Digit Temperature Display
+# 3 Digits Temperature Display
 Purpose:  The purpose of this project is to use the Arduino as a CPU for a temperature sensor with a 3 digit display in C°.
 •	A 3 digit seven segment display will be used .
 •	The shift register from the previous lab will be used as connected with no changes except to use the decimal point.
 •	We will use a temp sensor which goes from -40 to 125°C, the same is in TinkerCAD.
 •	We will add to the circuit from the last lab by adding 3 transistors and 2 more displays to control the digits of the display.
+
+# Breadboad and Dispaly Circuit
 
 Display is 'On' with 3 digits
 
