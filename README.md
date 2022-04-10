@@ -5,7 +5,7 @@ Purpose:  The purpose of this project is to use the Arduino as a CPU for a tempe
 •	We will use a temp sensor which goes from -40 to 125°C, the same is in TinkerCAD.
 •	We will add to the circuit from the last lab by adding 3 transistors and 2 more displays to control the digits of the display.
 
-# Breadboard and Dispaly Circuit
+# Circuit on Breadboard and Dispaly 'OFF/ON'
 
 Display is 'On' with 3 digits
 
