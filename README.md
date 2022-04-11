@@ -3,7 +3,7 @@ Purpose:  The purpose of this project is to use the Arduino as a CPU for a tempe
 1) A 3 digit seven segment display will be used
 2) Shift register will be used
 3) We will use a temp sensor which goes from -40 to 125°C, the same is in TinkerCAD
-4) We will add to the circuit and 3 transistors and 2 displays to control the digits of the display
+4) We will add to the circuit and 13 transistors and 3 displays to control the digits of the display
 
 # Circuit and Display 'OFF/ON'
 
