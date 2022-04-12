@@ -1,6 +1,3 @@
-//Mohammadreza Mir
-//Z1851556
-//Here we are initializing our variables
 
 int transistor1 = 5;    
 int transistor2 = 4;  
