@@ -32,7 +32,7 @@ You will notice that there is a negative number if the temp goes low enough, and
 
 ![Picture6](https://user-images.githubusercontent.com/102126445/162958005-441d8d77-048c-4bfe-b8d4-746a5cabac12.jpg)
 
-# Troubleshooting:
+# Troubleshooting
 
 Once you have written your program use the Serial.print and Serial.println instructions to help visualize your data.  In other words if you are wondering what the ADC value is, use the Serial.println(adc) to send that value to the serial monitor where you can determine if it is correct or not.  You can do this for other variables as well.  This is probably the most valuable tool for debugging Arduino programs.  Once you figure things out you may have to comment out the serial commands as they do tend to slow things down.
 
