@@ -14,3 +14,18 @@ Display is 'On' with 3 digits
 Display is 'Off'
 
 ![M 2](https://user-images.githubusercontent.com/102126445/162612710-f25053f4-9967-40ce-b285-a6b36adc2ebe.jpg)
+
+# Appendix
+
+Functional Diagram
+
+![Picture1](https://user-images.githubusercontent.com/102126445/162955051-914b9a16-030e-48aa-a163-f12ef898c75b.png)
+
+7 Segment Displays
+
+![Picture2](https://user-images.githubusercontent.com/102126445/162955338-d6486d01-654b-4b46-9c51-9442e8bcdd76.png)
+
+Seven Segment Pinout
+
+![Picture3](https://user-images.githubusercontent.com/102126445/162955775-5574f02a-6e2e-4218-9ac3-048631a2d78c.png)
+
